@@ -1,0 +1,16 @@
+.btnClose{
+    width: 60px;
+    height: 59px;
+
+    background-size: 50px;
+    opacity: 0.0;
+}
+
+.btnClose:hover{
+    opacity: 1;
+    
+}
+.big-img-container{
+    top:  calc(50% - 39%);
+}
+
